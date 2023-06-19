@@ -2,7 +2,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      SECRET_API: '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'
+      REACT_APP_OPENAI_API: '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'
     steps:
       - name: Use the secret key
         run: echo $SECRET_KEY
