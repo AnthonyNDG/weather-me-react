@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/weather-me-react/static/css/main.bfe13690.css",
-    "main.js": "/weather-me-react/static/js/main.2094f84c.js",
+    "main.css": "/weather-me-react/static/css/main.c92b3254.css",
+    "main.js": "/weather-me-react/static/js/main.68b254d1.js",
     "static/js/787.f0e5533f.chunk.js": "/weather-me-react/static/js/787.f0e5533f.chunk.js",
-    "static/media/article.webp": "/weather-me-react/static/media/article.7a0268492cc288695111.webp",
     "static/media/logo.png": "/weather-me-react/static/media/logo.f27915b7ff4deb08f039.png",
     "static/media/inspiration.webp": "/weather-me-react/static/media/inspiration.f971a431996f6eff9431.webp",
     "static/media/problem.webp": "/weather-me-react/static/media/problem.98600e9b0b8fa9956df0.webp",
@@ -12,12 +11,12 @@
     "static/media/Support.webp": "/weather-me-react/static/media/Support.4ffbdb57d002a46c291d.webp",
     "static/media/logo.svg": "/weather-me-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/weather-me-react/index.html",
-    "main.bfe13690.css.map": "/weather-me-react/static/css/main.bfe13690.css.map",
-    "main.2094f84c.js.map": "/weather-me-react/static/js/main.2094f84c.js.map",
+    "main.c92b3254.css.map": "/weather-me-react/static/css/main.c92b3254.css.map",
+    "main.68b254d1.js.map": "/weather-me-react/static/js/main.68b254d1.js.map",
     "787.f0e5533f.chunk.js.map": "/weather-me-react/static/js/787.f0e5533f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfe13690.css",
-    "static/js/main.2094f84c.js"
+    "static/css/main.c92b3254.css",
+    "static/js/main.68b254d1.js"
   ]
 }
